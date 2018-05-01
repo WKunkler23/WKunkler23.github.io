@@ -1,0 +1,142 @@
+#mapid { 
+    margin-right: 200px;
+    height: 595px;
+    width: 81.5%;
+    display: inline-block;
+}
+.navbar-brand {
+    text-align: center;
+    margin-left: 375px;
+}
+
+    
+#title{
+    
+}
+#panel {
+
+    width: 26%;
+    padding: 20px;
+    display: inline-block;
+    line-height: 42px;
+    vertical-align: top
+   
+}
+
+.sideNav{
+    height: 100%;
+    width: 228px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: palegoldenrod;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 10px;
+    
+}
+
+.sideNav2{
+    height: 50%;
+    width: 228px;
+    position:fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: palegoldenrod;
+    overflow-x: hidden;
+    transition: 0.5s;
+    margin-top: 87px;
+    padding-top: 10px;
+    
+}
+
+.sideNav3{
+    height: 50%;
+    width: 228px;
+    position:fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: palegoldenrod;
+    overflow-x: hidden;
+    transition: 0.5s;
+    margin-top: 174px;
+    padding-top: 10px;
+    
+}
+
+.legend-control-container{
+    width: 200px;
+    height: 100px;
+    background-color: palegoldenrod;
+    font-size: 10px;
+}
+
+.sideNav3 a {
+    padding: 8px 8px 8px 8px;
+    text-decoration: none;
+    
+    color: #111;
+    display: block;
+    transition: 0.3s;
+}
+.sideNav2 a {
+    padding: 8px 8px 8px 8px;
+    text-decoration: none;
+    
+    color: #111;
+    display: block;
+    transition: 0.3s;
+}
+
+.sideNav a {
+    padding: 8px 8px 8px 8px;
+    text-decoration: none;
+    
+    color: #111;
+    display: block;
+    transition: 0.3s;
+}
+.PPP-slider{
+    width: 200px;
+    margin: auto;
+}
+
+
+.GDC-slider{
+    width: 200px;
+    margin: auto;
+}
+
+#forward3{
+    height: 20px;
+    float: right;
+}
+#reverse3{
+    height: 20px;
+    float: left;
+}
+#forward2 {
+    height: 20px;
+    float: right;
+}
+
+#reverse2 {
+    height: 20px;
+    float: left;
+}
+.range-slider {
+    width: 200px;
+    margin: auto;
+}
+#forward{
+    height: 20px;
+    float: right;
+}
+
+#reverse{
+height: 20px;
+float: left;
+}
